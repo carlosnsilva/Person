@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41dbae7b-e14c-4927-a859-6138243a4177" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Carlos/Estudos/spring-boot-examples" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VFGmhDthfO6mjzqZIt3opxUZ2T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41dbae7b-e14c-4927-a859-6138243a4177" name="Default Changelist" comment="" />
+      <created>1576841589976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576841589976</updated>
+      <workItem from="1576841593316" duration="69000" />
+      <workItem from="1576841680630" duration="9875000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1473" y="45" width="800" height="684" key="#Notifications" timestamp="1576846203824">
+      <screen x="70" y="27" width="2320" height="741" />
+    </state>
+    <state x="1473" y="45" width="800" height="684" key="#Notifications/70.27.2320.741@70.27.2320.741" timestamp="1576846203824" />
+    <state x="1473" y="45" width="847" height="684" key="#Project_Structure" timestamp="1576851467633">
+      <screen x="70" y="27" width="2320" height="741" />
+    </state>
+    <state x="1473" y="45" width="847" height="684" key="#Project_Structure/70.27.2320.741@70.27.2320.741" timestamp="1576851467633" />
+    <state x="260" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576851744582">
+      <screen x="70" y="27" width="2320" height="741" />
+    </state>
+    <state x="176" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1296.741@70.27.1296.741" timestamp="1576844318344" />
+    <state x="260" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.2320.741@70.27.2320.741" timestamp="1576851744582" />
+    <state x="1481" y="53" width="784" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1576849852370">
+      <screen x="70" y="27" width="2320" height="741" />
+    </state>
+    <state x="1481" y="53" width="784" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/70.27.2320.741@70.27.2320.741" timestamp="1576849852370" />
+    <state x="1631" y="244" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576851720185">
+      <screen x="70" y="27" width="2320" height="741" />
+    </state>
+    <state x="1631" y="244" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/70.27.2320.741@70.27.2320.741" timestamp="1576851720185" />
+    <state x="501" y="141" width="424" height="520" key="FileChooserDialogImpl" timestamp="1576847585486">
+      <screen x="70" y="27" width="2320" height="741" />
+    </state>
+    <state x="501" y="141" width="424" height="520" key="FileChooserDialogImpl/70.27.2320.741@70.27.2320.741" timestamp="1576847585486" />
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1576841823387">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1576841823387" />
+    <state x="1550" y="280" width="646" height="215" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576846335970">
+      <screen x="70" y="27" width="2320" height="741" />
+    </state>
+    <state x="1550" y="280" width="646" height="215" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/70.27.2320.741@70.27.2320.741" timestamp="1576846335970" />
+    <state x="70" y="27" width="1296" height="741" key="new project wizard" timestamp="1576847596583">
+      <screen x="70" y="27" width="2320" height="741" />
+    </state>
+    <state x="70" y="27" width="1286" height="741" key="new project wizard/70.27.1296.741@70.27.1296.741" timestamp="1576843945751" />
+    <state x="70" y="27" width="1296" height="741" key="new project wizard/70.27.2320.741@70.27.2320.741" timestamp="1576847596583" />
+  </component>
+</project>
