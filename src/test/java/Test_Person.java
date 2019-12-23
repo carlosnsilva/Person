@@ -58,4 +58,16 @@ public class Test_Person {
 
     }
 
+    @Test
+
+    public void playTest_5(){
+        Person person_5 = new Person("eee", 27);
+        Person person5 = Mockito.spy(person_5);
+
+        Mockito.doReturn(true).when(person5).runInGround("ground");
+
+        Assert.assertTrue(person5.isPlay());
+
+    }
+
 }

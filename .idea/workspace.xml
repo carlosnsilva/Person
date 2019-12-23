@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41dbae7b-e14c-4927-a859-6138243a4177" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Documentos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Documentos.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Test_Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test_Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Test_Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Test_Person.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +131,7 @@
       <updated>1576841589976</updated>
       <workItem from="1576841593316" duration="69000" />
       <workItem from="1576841680630" duration="10447000" />
-      <workItem from="1577095892169" duration="3202000" />
+      <workItem from="1577095892169" duration="4628000" />
     </task>
     <servers />
   </component>
@@ -171,30 +168,30 @@
       <screen x="70" y="27" width="2320" height="741" />
     </state>
     <state x="501" y="141" width="424" height="520" key="FileChooserDialogImpl/70.27.2320.741@70.27.2320.741" timestamp="1576847585486" />
-    <state width="978" height="181" key="GridCell.Tab.0.bottom" timestamp="1577099469562">
+    <state width="978" height="181" key="GridCell.Tab.0.bottom" timestamp="1577100794817">
       <screen x="70" y="27" width="2320" height="741" />
     </state>
-    <state width="978" height="181" key="GridCell.Tab.0.bottom/70.27.2320.741@70.27.2320.741" timestamp="1577099469562" />
-    <state width="978" height="181" key="GridCell.Tab.0.center" timestamp="1577099469561">
+    <state width="978" height="181" key="GridCell.Tab.0.bottom/70.27.2320.741@70.27.2320.741" timestamp="1577100794817" />
+    <state width="978" height="181" key="GridCell.Tab.0.center" timestamp="1577100794816">
       <screen x="70" y="27" width="2320" height="741" />
     </state>
-    <state width="978" height="181" key="GridCell.Tab.0.center/70.27.2320.741@70.27.2320.741" timestamp="1577099469561" />
-    <state width="978" height="181" key="GridCell.Tab.0.left" timestamp="1577099469561">
+    <state width="978" height="181" key="GridCell.Tab.0.center/70.27.2320.741@70.27.2320.741" timestamp="1577100794816" />
+    <state width="978" height="181" key="GridCell.Tab.0.left" timestamp="1577100794816">
       <screen x="70" y="27" width="2320" height="741" />
     </state>
-    <state width="978" height="181" key="GridCell.Tab.0.left/70.27.2320.741@70.27.2320.741" timestamp="1577099469561" />
-    <state width="978" height="181" key="GridCell.Tab.0.right" timestamp="1577099469562">
+    <state width="978" height="181" key="GridCell.Tab.0.left/70.27.2320.741@70.27.2320.741" timestamp="1577100794816" />
+    <state width="978" height="181" key="GridCell.Tab.0.right" timestamp="1577100794817">
       <screen x="70" y="27" width="2320" height="741" />
     </state>
-    <state width="978" height="181" key="GridCell.Tab.0.right/70.27.2320.741@70.27.2320.741" timestamp="1577099469562" />
+    <state width="978" height="181" key="GridCell.Tab.0.right/70.27.2320.741@70.27.2320.741" timestamp="1577100794817" />
     <state x="1411" y="42" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1577096554569">
       <screen x="70" y="27" width="2320" height="741" />
     </state>
     <state x="1411" y="42" width="924" height="691" key="Maven.ArtifactSearchDialog/70.27.2320.741@70.27.2320.741" timestamp="1577096554569" />
-    <state x="1367" y="19" width="1022" height="737" key="SettingsEditor" timestamp="1577099461023">
+    <state x="1367" y="19" width="1022" height="737" key="SettingsEditor" timestamp="1577100785610">
       <screen x="70" y="27" width="2320" height="741" />
     </state>
-    <state x="1367" y="19" width="1022" height="737" key="SettingsEditor/70.27.2320.741@70.27.2320.741" timestamp="1577099461023" />
+    <state x="1367" y="19" width="1022" height="737" key="SettingsEditor/70.27.2320.741@70.27.2320.741" timestamp="1577100785610" />
     <state x="614" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1577095895696">
       <screen x="70" y="27" width="2320" height="741" />
     </state>
