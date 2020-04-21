@@ -2,10 +2,76 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41dbae7b-e14c-4927-a859-6138243a4177" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_auto_common_0_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_service_auto_service_1_0_rc6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_auto_service_auto_service_annotations_1_0_rc6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_no_aop_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_4_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_activation_javax_activation_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_typesafe_netty_netty_reactive_streams_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_grpc_grpc_context_1_24_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_47_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_47_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_47_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_46_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_47_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_43_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_46_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_47_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_47_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_47_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_47_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_4_1_47_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_kqueue_osx_x86_64_4_1_47_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_47_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_opentelemetry_opentelemetry_api_0_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_exec_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_asynchttpclient_async_http_client_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_asynchttpclient_async_http_client_netty_utils_2_11_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_3_61.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_3_61.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_3_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_api_4_0_0_alpha_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chrome_driver_4_0_0_alpha_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_chromium_driver_4_0_0_alpha_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_devtools_4_0_0_alpha_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edge_driver_4_0_0_alpha_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_edgehtml_driver_4_0_0_alpha_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_driver_4_0_0_alpha_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_firefox_xpi_driver_4_0_0_alpha_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_http_4_0_0_alpha_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_ie_driver_4_0_0_alpha_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_java_4_0_0_alpha_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_json_4_0_0_alpha_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_opera_driver_4_0_0_alpha_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_remote_driver_4_0_0_alpha_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_safari_driver_4_0_0_alpha_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_seleniumhq_selenium_selenium_support_4_0_0_alpha_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_21.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_2_0_0_beta.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documentos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Documentos.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Test_Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test_Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Test_Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Test_Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test_Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Test_Person.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +125,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="editorconfig.notification" value="lf;" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -69,21 +143,43 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Test_Person">
-    <configuration name="Test_Person" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.StayPlay (1)">
+    <configuration name="StayPlay (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Documentos" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Test_Person" />
+      <option name="MAIN_CLASS_NAME" value="StayPlay" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test_Person.playTest_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StayPlay" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="Documentos" />
+      <useClassPathOnly />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test_Person" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Person.Person1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Documentos" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="Test_Person" />
-      <option name="METHOD_NAME" value="playTest_1" />
+      <option name="METHOD_NAME" value="Person1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Person.playTest_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Documentos" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test_Person" />
+      <option name="METHOD_NAME" value="playTest_3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,9 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Test_Person" />
+        <item itemvalue="JUnit.StayPlay (1)" />
+        <item itemvalue="JUnit.Test_Person.Person1" />
+        <item itemvalue="JUnit.Test_Person.playTest_3" />
+        <item itemvalue="JUnit.StayPlay" />
         <item itemvalue="JUnit.Test_Person.playTest_4" />
-        <item itemvalue="JUnit.Test_Person.playTest_1" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +230,7 @@
       <workItem from="1576841593316" duration="69000" />
       <workItem from="1576841680630" duration="10447000" />
       <workItem from="1577095892169" duration="4628000" />
+      <workItem from="1587426653773" duration="3874000" />
     </task>
     <servers />
   </component>
@@ -139,76 +238,53 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1473" y="45" width="800" height="684" key="#Notifications" timestamp="1576846203824">
-      <screen x="70" y="27" width="2320" height="741" />
+    <state x="261" y="32" width="833" height="656" key="#Test_Person" timestamp="1587430272783">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1473" y="45" width="800" height="684" key="#Notifications/70.27.2320.741@70.27.2320.741" timestamp="1576846203824" />
-    <state x="1473" y="45" width="847" height="684" key="#Project_Structure" timestamp="1576851467633">
-      <screen x="70" y="27" width="2320" height="741" />
+    <state x="261" y="32" width="833" height="656" key="#Test_Person/0.0.1366.728@0.0.1366.728" timestamp="1587430272783" />
+    <state x="461" y="119" width="424" height="479" key="FileChooserDialogImpl" timestamp="1587427780919">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1473" y="45" width="847" height="684" key="#Project_Structure/70.27.2320.741@70.27.2320.741" timestamp="1576851467633" />
-    <state x="1468" y="49" width="800" height="684" key="#Updates" timestamp="1577097638148">
-      <screen x="70" y="27" width="2320" height="741" />
+    <state x="461" y="119" width="424" height="479" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587427780919" />
+    <state width="1324" height="173" key="GridCell.Tab.0.bottom" timestamp="1587430943342">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1468" y="49" width="800" height="684" key="#Updates/70.27.2320.741@70.27.2320.741" timestamp="1577097638148" />
-    <state x="260" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576851744582">
-      <screen x="70" y="27" width="2320" height="741" />
+    <state width="1324" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587430943342" />
+    <state width="1324" height="173" key="GridCell.Tab.0.center" timestamp="1587430943340">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="176" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.1296.741@70.27.1296.741" timestamp="1576844318344" />
-    <state x="260" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.27.2320.741@70.27.2320.741" timestamp="1576851744582" />
-    <state x="1481" y="53" width="784" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1576849852370">
-      <screen x="70" y="27" width="2320" height="741" />
+    <state width="1324" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587430943340" />
+    <state width="1324" height="173" key="GridCell.Tab.0.left" timestamp="1587430943340">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1481" y="53" width="784" height="668" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/70.27.2320.741@70.27.2320.741" timestamp="1576849852370" />
-    <state x="1631" y="244" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1576851720185">
-      <screen x="70" y="27" width="2320" height="741" />
+    <state width="1324" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587430943340" />
+    <state width="1324" height="173" key="GridCell.Tab.0.right" timestamp="1587430943342">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1631" y="244" width="494" height="297" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/70.27.2320.741@70.27.2320.741" timestamp="1576851720185" />
-    <state x="501" y="141" width="424" height="520" key="FileChooserDialogImpl" timestamp="1576847585486">
-      <screen x="70" y="27" width="2320" height="741" />
+    <state width="1324" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587430943342" />
+    <state width="1324" height="216" key="GridCell.Tab.1.bottom" timestamp="1587429222827">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="501" y="141" width="424" height="520" key="FileChooserDialogImpl/70.27.2320.741@70.27.2320.741" timestamp="1576847585486" />
-    <state width="978" height="181" key="GridCell.Tab.0.bottom" timestamp="1577100794817">
-      <screen x="70" y="27" width="2320" height="741" />
+    <state width="1324" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587429222827" />
+    <state width="1324" height="216" key="GridCell.Tab.1.center" timestamp="1587429222825">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="978" height="181" key="GridCell.Tab.0.bottom/70.27.2320.741@70.27.2320.741" timestamp="1577100794817" />
-    <state width="978" height="181" key="GridCell.Tab.0.center" timestamp="1577100794816">
-      <screen x="70" y="27" width="2320" height="741" />
+    <state width="1324" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1587429222825" />
+    <state width="1324" height="216" key="GridCell.Tab.1.left" timestamp="1587429222824">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="978" height="181" key="GridCell.Tab.0.center/70.27.2320.741@70.27.2320.741" timestamp="1577100794816" />
-    <state width="978" height="181" key="GridCell.Tab.0.left" timestamp="1577100794816">
-      <screen x="70" y="27" width="2320" height="741" />
+    <state width="1324" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1587429222824" />
+    <state width="1324" height="216" key="GridCell.Tab.1.right" timestamp="1587429222826">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="978" height="181" key="GridCell.Tab.0.left/70.27.2320.741@70.27.2320.741" timestamp="1577100794816" />
-    <state width="978" height="181" key="GridCell.Tab.0.right" timestamp="1577100794817">
-      <screen x="70" y="27" width="2320" height="741" />
+    <state width="1324" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1587429222826" />
+    <state x="166" y="0" width="1024" height="723" key="SettingsEditor" timestamp="1587427785490">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="978" height="181" key="GridCell.Tab.0.right/70.27.2320.741@70.27.2320.741" timestamp="1577100794817" />
-    <state x="1411" y="42" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1577096554569">
-      <screen x="70" y="27" width="2320" height="741" />
+    <state x="166" y="0" width="1024" height="723" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587427785490" />
+    <state x="366" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1587426652528">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="1411" y="42" width="924" height="691" key="Maven.ArtifactSearchDialog/70.27.2320.741@70.27.2320.741" timestamp="1577096554569" />
-    <state x="1367" y="19" width="1022" height="737" key="SettingsEditor" timestamp="1577100785610">
-      <screen x="70" y="27" width="2320" height="741" />
-    </state>
-    <state x="1367" y="19" width="1022" height="737" key="SettingsEditor/70.27.2320.741@70.27.2320.741" timestamp="1577100785610" />
-    <state x="614" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1577095895696">
-      <screen x="70" y="27" width="2320" height="741" />
-    </state>
-    <state x="374" y="225" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1576841823387" />
-    <state x="614" y="225" key="com.intellij.ide.util.TipDialog/70.27.2320.741@70.27.2320.741" timestamp="1577095895696" />
-    <state x="1550" y="280" width="646" height="215" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1576846335970">
-      <screen x="70" y="27" width="2320" height="741" />
-    </state>
-    <state x="1550" y="280" width="646" height="215" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/70.27.2320.741@70.27.2320.741" timestamp="1576846335970" />
-    <state x="70" y="27" width="1296" height="741" key="new project wizard" timestamp="1576847596583">
-      <screen x="70" y="27" width="2320" height="741" />
-    </state>
-    <state x="70" y="27" width="1286" height="741" key="new project wizard/70.27.1296.741@70.27.1296.741" timestamp="1576843945751" />
-    <state x="70" y="27" width="1296" height="741" key="new project wizard/70.27.2320.741@70.27.2320.741" timestamp="1576847596583" />
-    <state x="1603" y="298" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1577095937560">
-      <screen x="70" y="27" width="2320" height="741" />
-    </state>
-    <state x="1603" y="298" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/70.27.2320.741@70.27.2320.741" timestamp="1577095937560" />
+    <state x="366" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587426652528" />
   </component>
 </project>

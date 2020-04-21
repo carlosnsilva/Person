@@ -2,10 +2,12 @@ public class Person {
 
     private String name;
     private int age;
+    private String play;
 
-    public Person(String name, int age) {
+    public Person(String name, int age, String play) {
         this.name = name;
         this.age = age;
+        this.play = play;
     }
 
     public String getName() {
@@ -24,26 +26,24 @@ public class Person {
         this.age = age;
     }
 
-    public boolean runInGround( String location) {
-        if(location.equals("ground")) {
-            System.out.println("The person runs in the " + location);
-            return true;
-        } else {
-            System.out.println("The person doesn't run in the " +   location);
-            return false;
-        }
-
+    public void setPlay(String play) {
+        this.play = play;
     }
 
-    public boolean isPlay() {
+    public String getPlay() {
+        return play;
+    }
 
-        if(this.runInGround("ground")) {
-            System.out.println("The person plays.");
-            return true;
+    public String StayPlay(String play) {
+
+        if (play.equals(getPlay())) {
+            return "True";
+
         }
-        else {
-            System.out.println("The person doesn't play");
-            return false;
+
+        else{
+            return "False";
         }
     }
+
 }
